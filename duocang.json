@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🎬 饭太硬主力仓（日常综合）"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "🌍 海外专线仓（含爱壹帆）"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "🐱 肥猫全能仓（冷门老片）"
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "⚡ OK高清仓（4K备用）"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/guxiangbin/tvbox2/main/%F0%9F%A5%B0%E5%A4%A7%E4%BA%BA%E6%8E%A5%E5%8F%A3%E2%91%A0.txt",
+      "name": "🔞 私人独立仓（18+）"
+    }
+  ]
+}
